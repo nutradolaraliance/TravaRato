@@ -3,8 +3,8 @@
 $whitePage = "https://meutudo.com.br/blog/guia-do-saque-aniversario/";
 $blackPage = "https://liberandoagora.github.io/Funil1Mi/inicio";
 
-$NomeParametroSeguro = "RUxDSmr7ZK";
-$ValorParametroSeguro = "glvHYzZ5eU";
+$NomeParametroSeguro = "ega6BXLb63";
+$ValorParametroSeguro = "tPmjBjzJ2p";
 
 
 
